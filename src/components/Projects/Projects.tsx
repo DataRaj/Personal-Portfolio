@@ -33,9 +33,7 @@ const Projects: FC = () => {
                     <Fade>
                         <Heading as='h2'>Featured Projects</Heading>
                     </Fade>
-                    <Fade>
-                        <Heading as='p'><b>Project Section is not done yet, Work in progres ⚠️</b></Heading>
-                    </Fade>
+\
                     {/* <Wrap spacing={0} justify='center'>
                         {projectData.slice(0, isMobile ? 6 : 3).map(data => (
                             <WrapItem p={5}>
