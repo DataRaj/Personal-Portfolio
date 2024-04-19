@@ -1,17 +1,13 @@
+import { FiGithub } from 'react-icons/fi'
 import {
-    FirebaseBadge,
-    JavaBadge,
-    MongoBadge,
-    MySQLBadge,
+    GraphQLBadge,
+    NextBadge,
     NodeBadge,
-    PHPBadge,
-    PythonBadge,
+    PrismaBadge,
+    RadixUIBadge,
     ReactBadge,
-    AssemblyBadge,
-    DjangoBadge,
-    TypescriptBadge,
+    TailwindBadge
 } from '../components/Projects/TechBadges'
-import { FiGithub, FiLink } from 'react-icons/fi'
 import { ProjectT } from './types'
 
 export const projectData: ProjectT[] = [
@@ -32,6 +28,58 @@ export const projectData: ProjectT[] = [
         ],
         headerLink: 'https://github.com/DataRaj/Dattaraj-Task-Dec-2023-shopping-cart-zevi',
     },
+    {
+        name: 'D-Socials',
+        id: 'dsocials',
+        type: 'Web app',
+        tagline: 'Products search ',
+        tags: [<NextBadge />, <NodeBadge />, <PrismaBadge/>, <RadixUIBadge/>],
+        imageSrc: 'https://assets-global.website-files.com/622778f0460ef2a7b46117c1/632c38d0a82442dc8dfe0f53_zevi-logo-_2_.webp',
+        description:
+            'D-Socials is one of my favorite application which works like regular social media with own UI design and architecture, It comprises the NextJS and Prisma with ExpressJS and postgresql which is deployed on the vercel and heroku',
+        links: [
+            {
+                link: 'https://vercel.com/datarajs-projects/d-socials-media-basedweb-app/BVAiY4tSYSDfWxTa8Lfdo5gREWxZ',
+                icon: <FiGithub />,
+            },
+        ],
+        headerLink: 'https://github.com/DataRaj/D-Socials-fend',
+    },
+    {
+        name: 'Food-Deli-App',
+        id: 'foodely',
+        type: 'Web app',
+        tagline: 'Products search ',
+        tags: [<NodeBadge />, <GraphQLBadge/>, <TailwindBadge/>, <ReactBadge/>],
+        imageSrc: 'https://assets-global.website-files.com/622778f0460ef2a7b46117c1/632c38d0a82442dc8dfe0f53_zevi-logo-_2_.webp',
+        description:
+            'A Food-Delia-App is inspiration idea takedn from the uber eats, I simply a perfect web-app for customer service business and delivery application, designed 3 client sites (User, Delivery and Admin) It has all features as we have used in uber eats',
+        links: [
+            {
+                link: 'https://vercel.com/datarajs-projects/d-socials-media-basedweb-app/BVAiY4tSYSDfWxTa8Lfdo5gREWxZ',
+                icon: <FiGithub />,
+            },
+        ],
+        headerLink: 'https://github.com/DataRaj/Food-Deli-App-inspired-by-Uber-Eats-Server',
+    },
+    {
+        name: 'Movie-Booking-App',
+        id: 'moviebooking',
+        type: 'Web app',
+        tagline: 'UI and Dynamix Website',
+        tags: [<ReactBadge />, <NodeBadge />, <GraphQLBadge/>, <TailwindBadge/>],
+        imageSrc: 'https://assets-global.website-files.com/622778f0460ef2a7b46117c1/632c38d0a82442dc8dfe0f53_zevi-logo-_2_.webp',
+        description:
+            'This is a pretty UI oriented and very fast dynamic application serves a user to get movie or show tickets online and booking tickets user friendly',
+        links: [
+            {
+                link: 'https://vercel.com/datarajs-projects/d-socials-media-basedweb-app/BVAiY4tSYSDfWxTa8Lfdo5gREWxZ',
+                icon: <FiGithub />,
+            },
+        ],
+        headerLink: 'https://github.com/DataRaj/Movie-booking-app',
+    },
+
     // {
     //     name: 'PetPal',
     //     id: 'petpal',

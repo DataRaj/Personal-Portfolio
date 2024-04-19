@@ -43,3 +43,21 @@ export const DjangoBadge = () => {
 export const TypescriptBadge = () => {
     return <Badge colorScheme={'blue'}>Typescript</Badge>
 }
+export const RadixUIBadge = () => {
+    return <Badge colorScheme={'Black'}>RadixUI</Badge>
+}
+export const NextBadge = () => {
+    return <Badge colorScheme={'voilet'}>NextJS</Badge>
+}
+export const PrismaBadge = () => {
+    return <Badge colorScheme={'green'}>Prisma</Badge>
+}
+export const NestBadge = () =>{
+    return <Badge colorScheme={'maroon'}>NestJS</Badge>
+}
+export const GraphQLBadge = () =>{
+    return <Badge colorScheme={'red'}>GraphQL</Badge>
+}
+export const TailwindBadge = () =>{
+    return <Badge colorScheme={'cyan'}>Tailwind</Badge>
+}
