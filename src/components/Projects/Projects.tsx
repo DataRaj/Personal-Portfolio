@@ -33,8 +33,8 @@ const Projects: FC = () => {
                     <Fade>
                         <Heading as='h2'>Featured Projects</Heading>
                     </Fade>
-\
-                    {/* <Wrap spacing={0} justify='center'>
+
+                    <Wrap spacing={0} justify='center'>
                         {projectData.slice(0, isMobile ? 6 : 3).map(data => (
                             <WrapItem p={5}>
                                 <ProjectCard
@@ -54,9 +54,9 @@ const Projects: FC = () => {
                                 />
                             </WrapItem>
                         ))}
-                    </Wrap> */}
+                    </Wrap> 
 
-                    {/* <Link to={'/projects'}>
+                    <Link to={'/projects'}>
                         <Button
                             variant={'solid'}
                             colorScheme={'teal'}
@@ -67,7 +67,7 @@ const Projects: FC = () => {
                         >
                             View All
                         </Button>
-                    </Link> */}
+                    </Link> 
                 </VStack>
             </Container>
         </Element>
