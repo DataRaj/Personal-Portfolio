@@ -1,18 +1,17 @@
-import { FC } from 'react'
 import {
-    Container,
-    Heading,
-    Stack,
-    Image,
-    VStack,
-    Text,
-    useColorModeValue,
-    Flex,
     Center,
-    Link,
+    Container,
+    Flex,
+    Heading,
+    Image,
+    Stack,
+    Text,
+    VStack,
+    useColorModeValue
 } from '@chakra-ui/react'
-import { Element } from 'react-scroll'
+import { FC } from 'react'
 import Fade from 'react-reveal/Fade'
+import { Element } from 'react-scroll'
 import headshot from '../../media/headshot.jpg'
 
 const About: FC = () => {
@@ -70,8 +69,8 @@ const About: FC = () => {
                                         <b>Angular and ReactJS</b> are my frontend framework
                                         of choice and I've worked in backend
                                         with{' '}
-                                        <b>NodeJS, NestJS, JavaSE, Spring Core</b>{' '}
-                                        and <b>Spring Boot</b>.
+                                        <b>NodeJS, NestJS, ExpressJS, Prisma, Docker</b>{' '}
+                                        and <b>AWS</b>.
                                     </Text>
                                 </Flex>
                             </Fade>

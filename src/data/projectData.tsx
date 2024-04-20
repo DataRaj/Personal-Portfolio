@@ -34,7 +34,7 @@ export const projectData: ProjectT[] = [
         type: 'Web app',
         tagline: 'Products search ',
         tags: [<NextBadge />, <NodeBadge />, <PrismaBadge/>, <RadixUIBadge/>],
-        imageSrc: 'https://assets-global.website-files.com/622778f0460ef2a7b46117c1/632c38d0a82442dc8dfe0f53_zevi-logo-_2_.webp',
+        imageSrc: '/d-socials.png',
         description:
             'D-Socials is one of my favorite application which works like regular social media with own UI design and architecture, It comprises the NextJS and Prisma with ExpressJS and postgresql which is deployed on the vercel and heroku',
         links: [
@@ -51,7 +51,7 @@ export const projectData: ProjectT[] = [
         type: 'Web app',
         tagline: 'Products search ',
         tags: [<NodeBadge />, <GraphQLBadge/>, <TailwindBadge/>, <ReactBadge/>],
-        imageSrc: 'https://assets-global.website-files.com/622778f0460ef2a7b46117c1/632c38d0a82442dc8dfe0f53_zevi-logo-_2_.webp',
+        imageSrc: '/deli.jpg',
         description:
             'A Food-Delia-App is inspiration idea takedn from the uber eats, I simply a perfect web-app for customer service business and delivery application, designed 3 client sites (User, Delivery and Admin) It has all features as we have used in uber eats',
         links: [
