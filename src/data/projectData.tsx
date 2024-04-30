@@ -66,7 +66,7 @@ export const projectData: ProjectT[] = [
         name:'Movie-Booking-App',
         id: 'moviebooking',
         type: 'Web app',
-        tagline: 'UI and Dynamix Website',
+        tagline: 'UI and Dynamic Website',
         tags: [<ReactBadge />, <NodeBadge />, <GraphQLBadge/>, <TailwindBadge/>],
         imageSrc: './d-socials.png',
         description:
@@ -79,6 +79,23 @@ export const projectData: ProjectT[] = [
         ],
         headerLink: 'https://github.com/DataRaj/Movie-booking-app',
     },
+    {
+        name: 'Dashboard Figma to React-JS applicaition',
+        id: 'dashbaord-design',
+        type: 'Figma to Design',
+        tagline: 'UI and react based design',
+        tags: [<ReactBadge/>, <TailwindBadge/>],
+        imageSrc: './dashboard-design.png',
+        description: 
+            'This design was actually task that was assigned by the company and I had around 3 hours to complete this task so I have completed in given time. Actually It had lot of factors like a UI design Component writing, arranging all those components and tailwindCss',
+        links: [
+            {
+                link: 'https://github.com/DataRaj/full-stack-developer-all-tasks',
+                icon: <FiGithub/>
+            }
+        ],
+        headerLink: 'https://full-stack-developer-all-tasks.vercel.app/'
+/    }
 
     // {
     //     name: 'PetPal',
