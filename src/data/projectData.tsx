@@ -95,7 +95,7 @@ export const projectData: ProjectT[] = [
             }
         ],
         headerLink: 'https://full-stack-developer-all-tasks.vercel.app/'
-/    }
+    }
 
     // {
     //     name: 'PetPal',
