@@ -65,11 +65,11 @@ const About: FC = () => {
                                     <Text>
                                         I'm experienced and Skilled in a full-stack web
                                         development - particularly with{' '}
-                                        <b>Typescript, Angular</b> and <b>ReactJs</b>.{' '}
-                                        <b>Angular and ReactJS</b> are my frontend framework
+                                        <b>Typescript, NextJS</b> and <b>ReactJs</b>.{' '}
+                                        <b>NextJS and ReactJS</b> are my frontend framework
                                         of choice and I've worked in backend
                                         with{' '}
-                                        <b>NodeJS, NestJS, ExpressJS, Prisma, Docker</b>{' '}
+                                        <b>NodeJS, ExpressJS, Prisma, Docker</b>{' '}
                                         and <b>AWS</b>.
                                     </Text>
                                 </Flex>
