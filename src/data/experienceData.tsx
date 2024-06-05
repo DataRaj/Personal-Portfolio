@@ -1,6 +1,16 @@
 import { ExperienceData } from './types'
 export const experienceData: ExperienceData[] = [
     {
+        title: 'Intern',
+        company: 'MICA Labs',
+        location: 'Maharashtra, IN',
+        dates: 'May 2019 - July 2019',
+        description:
+            'During my internship, I mastered JavaScript and asynchronous programming through UI development training. I utilized Node.js for backend data generation, EJS and Bootstrap for frontend development, and PHP for backend development, achieving 25% growth. I successfully completed a time-bound project, building a software front-end and back-end service project.',
+        logoSrc:
+            '/micalabs.jpg',
+    },
+    {
         title: 'Design Intern',
         company: 'DevStack Solution',
         location: 'In, (Remote)',
@@ -9,16 +19,6 @@ export const experienceData: ExperienceData[] = [
             'Developed and Tested a various types of front-end components and debugged complex hooks and , Learned a lot of things eg: Development process of large scale applications and developed projects of cloning highly used applications using modern technologies ,TailwindCss, ReactJS, TypeScript, and AWS Lambda.',
         logoSrc:
         '/devstack.jpg',
-    },
-    {
-        title: 'Intern',
-        company: 'MICA Labs',
-        location: 'Maharashtra, IN',
-        dates: 'May 2019 - July 2019',
-        description:
-            'pecialized in MCB Login with PLC and SCADA for more about automations and core industry functions, Then on other half time directed toward Web developement, like HTML, CSS and Javascript basics for covering all the fundamentals ',
-        logoSrc:
-            '/micalabs.jpg',
     },
         {
         title: 'Backend Developer',
