@@ -6,9 +6,8 @@ export const experienceData: ExperienceData[] = [
         location: 'Maharashtra, IN',
         dates: 'May 2019 - July 2019',
         description:
-            'During my internship, I mastered JavaScript and asynchronous programming through UI development training. I utilized Node.js for backend data generation, EJS and Bootstrap for frontend development, and PHP for backend development, achieving 25% growth. I successfully completed a time-bound project, building a software front-end and back-end service project.',
-        logoSrc:
-            '/micalabs.jpg',
+            'During my internship, I utilized Node.js, EJS, Bootstrap, and PHP to develop a comprehensive software project. I successfully generated backend data and created a frontend with 25% growth. I completed a time-bound task by building a software project with both front-end and back-end services, demonstrating my mastery of JavaScript, asynchronous programming, and design patterns.',    
+        logoSrc:'/micalabs.jpg',
     },
     {
         title: 'Design Intern',
@@ -16,16 +15,15 @@ export const experienceData: ExperienceData[] = [
         location: 'In, (Remote)',
         dates: 'Feb 2022 - May 2022',
         description:
-            'Developed and Tested a various types of front-end components and debugged complex hooks and , Learned a lot of things eg: Development process of large scale applications and developed projects of cloning highly used applications using modern technologies ,TailwindCss, ReactJS, TypeScript, and AWS Lambda.',
-        logoSrc:
-        '/devstack.jpg',
+            'I devstack, I worked on crucial continueous development enviroment, I developed and tested various front-end components, debugging complex hooks. I gained expertise in large-scale application development and cloned popular applications using modern technologies like TailwindCSS, ReactJS, TypeScript, and AWS Lambda.',
+        logoSrc:'/devstack.jpg',
     },
         {
         title: 'Backend Developer',
         company: 'Bharat IQ',
         location: 'In, (Remote)',
         dates: 'Jun 2023 - August 2023',
-        description: 'Bharat IQ was fully based on the Back-end with NodeJS, I developed a program to improve the efficiency of the application by using Express and prisma tools like prisma ORM, TypeORM sealed classes and records. Utlizied GraphQL and Apollo, optmizing database connectivity by 30%. Server managed by CRUD operations',
+        description: 'During my internship at Bharat IQ, I focused on the back-end, utilizing NodeJS, Express, and Prisma tools like Prisma ORM, TypeORM, sealed classes, and records. I optimized database connectivity by 30% using GraphQL and Apollo, and managed servers through CRUD operations, significantly improving application efficiency.',
         logoSrc : '/bharatiq.jpg'
     }
 ]
