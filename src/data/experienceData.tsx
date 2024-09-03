@@ -23,5 +23,13 @@ export const experienceData: ExperienceData[] = [
         dates: 'July 2023 - Sept 2023',
         description: 'During my internship, I contributed to the CRM tool development team, enhancing application performance and reducing bugs by 30%. I configured a scalable backend with multi-layered APIs, payment, mailing, and authentication integrations. I assisted in testing the database using mock data and gained valuable insights from senior developers.',
         logoSrc : '/bharatiq.jpg'
+    }, 
+    {
+        title: 'Full Stack Developer',
+        company: 'Shiven Infotech',
+        location: 'Navi Mumbai, IN',
+        dates: 'Jun 2024 - Aug 2024',
+        description: 'Shiven InfoTech is new tech startup which farm based product selling and software based service small firm, I worked as a Software Developed. Developed a Ecommerce Web-App using NextJs, Express, SanityIo, Drizzle Orm, PostgreSQL, Redis, Websockets and Auth system. I also Worked on more than 5 webpages which comprises landing pages, card service app. I solely developed everything'
+        logoSrc : '/shiven.jpg'
     }
 ]
