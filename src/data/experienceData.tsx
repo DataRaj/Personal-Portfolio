@@ -29,7 +29,7 @@ export const experienceData: ExperienceData[] = [
         company: 'Shiven Infotech',
         location: 'Navi Mumbai, IN',
         dates: 'Jun 2024 - Aug 2024',
-        description: 'Shiven InfoTech is new tech startup which farm based product selling and software based service small firm, I worked as a Software Developed. Developed a Ecommerce Web-App using NextJs, Express, SanityIo, Drizzle Orm, PostgreSQL, Redis, Websockets and Auth system. I also Worked on more than 5 webpages which comprises landing pages, card service app. I solely developed everything'
+        description: 'Shiven InfoTech is new tech startup which farm based product selling and software based service small firm, I worked as a Software Developed. Developed a Ecommerce Web-App using NextJs, Express, SanityIo, Drizzle Orm, PostgreSQL, Redis, Websockets and Auth system. I also Worked on more than 5 webpages which comprises landing pages, card service app. I solely developed everything',
         logoSrc : '/shiven.jpg'
     }
 ]
