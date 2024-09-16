@@ -56,11 +56,11 @@ export const projectData: ProjectT[] = [
             'A Food-Delia-App is inspiration idea takedn from the uber eats, I simply a perfect web-app for customer service business and delivery application, designed 3 client sites (User, Delivery and Admin) It has all features as we have used in uber eats',
         links: [
             {
-                link: 'https://vercel.com/datarajs-projects/d-socials-media-basedweb-app/BVAiY4tSYSDfWxTa8Lfdo5gREWxZ',
+                link: 'https://github.com/DataRaj/Food-Deli-App-inspired-by-Uber-Eats-Server',
                 icon: <FiGithub />,
             },
         ],
-        headerLink: 'https://github.com/DataRaj/Food-Deli-App-inspired-by-Uber-Eats-Server',
+        headerLink: '',
     },
     {
         name:'Movie-Booking-App',
@@ -73,11 +73,11 @@ export const projectData: ProjectT[] = [
             'This is a pretty UI oriented and very fast dynamic application serves a user to get movie or show tickets online and booking tickets user friendly',
         links: [
             {
-                link: 'https://vercel.com/datarajs-projects/d-socials-media-basedweb-app/BVAiY4tSYSDfWxTa8Lfdo5gREWxZ',
+                link: 'https://github.com/DataRaj/Movie-booking-app',
                 icon: <FiGithub />,
             },
         ],
-        headerLink: 'https://github.com/DataRaj/Movie-booking-app',
+        headerLink: '',
     },
     {
         name: 'Dashboard Figma to React-JS applicaition',
