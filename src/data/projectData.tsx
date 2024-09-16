@@ -43,7 +43,7 @@ export const projectData: ProjectT[] = [
                 icon: <FiGithub />,
             },
         ],
-        headerLink: 'https://d-socials-media-basedweb-m9yzk1v8n-datarajs-projects.vercel.app/signin' ,
+        headerLink: 'https://d-socials-media-basedweb-m9yzk1v8n-datarajs-projects.vercel.app' ,
     },
     {
         name: 'Food-Deli-App',
