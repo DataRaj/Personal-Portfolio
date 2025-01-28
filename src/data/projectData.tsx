@@ -1,5 +1,6 @@
 import { FiGithub } from 'react-icons/fi'
 import {
+    AngularBadge,
     GraphQLBadge,
     NextBadge,
     NodeBadge,
@@ -50,7 +51,7 @@ export const projectData: ProjectT[] = [
         id: 'foodely',
         type: 'Web app',
         tagline: 'Products search ',
-        tags: [<NodeBadge />, <GraphQLBadge/>, <TailwindBadge/>, <ReactBadge/>],
+        tags: [<NodeBadge />, <GraphQLBadge/>, <TailwindBadge/>, <AngularBadge/>],
         imageSrc: '/deli.jpg',
         description:
             'A Food-Delia-App is inspiration idea takedn from the uber eats, I simply a perfect web-app for customer service business and delivery application, designed 3 client sites (User, Delivery and Admin) It has all features as we have used in uber eats',
@@ -67,7 +68,7 @@ export const projectData: ProjectT[] = [
         id: 'moviebooking',
         type: 'Web app',
         tagline: 'UI and Dynamic Website',
-        tags: [<ReactBadge />, <NodeBadge />, <GraphQLBadge/>, <TailwindBadge/>],
+        tags: [<AngularBadge />, <NodeBadge />, <GraphQLBadge/>, <TailwindBadge/>],
         imageSrc: './d-socials.png',
         description:
             'This is a pretty UI oriented and very fast dynamic application serves a user to get movie or show tickets online and booking tickets user friendly',
