@@ -30,7 +30,7 @@ const About: FC = () => {
                     >
                         <Image
                             borderRadius='full'
-                            boxSize='150px'
+                            boxSize='250px'
                             src={headshot}
                             border={`3px solid ${useColorModeValue('#1E2428', '#ECEFF4')}`}
                         />
@@ -65,9 +65,10 @@ const About: FC = () => {
                                     <Text>
                                         I'm experienced and Skilled in a full-stack web
                                         development - particularly with{' '}
-                                        <b>Typescript, NextJS</b> and <b>ReactJs</b>.{' '}
-                                        <b>NextJS and ReactJS</b> are my frontend framework
-                                        of choice and I've worked in backend
+                                        <b>Typescript, Angular</b> and <b></b>.{' '}
+                                        <b>NextJS</b> are my frontend framework, with perticularely mastered and professionally used the Angular with its Advanced tools of choice and
+                                        <br/>
+                                         I've worked in backend
                                         with{' '}
                                         <b>NodeJS, ExpressJS, Prisma, Docker</b>{' '}
                                         and <b>AWS</b>.
