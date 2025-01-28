@@ -17,9 +17,9 @@ export const experienceData: ExperienceData[] = [
         location: 'IN, (Remote)',
         dates: 'Feb 2022 - May 2022',
         description:`I devstack, I worked on crucial continueous development enviroment, I contributed significantly to 
-                     UI design, enhancing interaction and accelerating project delivery. I designed complex React 
-                     components using TypeScript, custom hooks, and optimizations, and effectively managed state with 
-                     Redux, handling numerous states efficiently.`,
+                     UI design, enhancing interaction and accelerating project delivery. Integrated Vue.js for smooth animation and transitions, reducing loading times by 20% and enhancing
+overall UI management. Designed complex Vue components, Built reusable components in Vue.js and Angular, ensuring scalability and maintainability, resulting in a 35%
+faster development process.`,
         logoSrc:'/devstack.jpg',
     },
         {
